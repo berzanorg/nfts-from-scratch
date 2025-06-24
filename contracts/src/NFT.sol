@@ -22,7 +22,7 @@ contract NFT is ERC721Enumerable, ERC2981, Ownable {
     }
 
     function _baseURI() internal pure override returns (string memory) {
-        return "ipfs://CID/";
+        return "ipfs://bafybeigkxeq7gmzlv5d7pjmcvzcrwxfmeirpsdgdat2fuwqpnvtv5p4ane/";
     }
 
     function supportsInterface(bytes4 interfaceId) public view override(ERC721Enumerable, ERC2981) returns (bool) {
