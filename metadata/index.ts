@@ -20,7 +20,7 @@ for (let i = 0; i < 33; i++) {
   const metadataObject = createMetadataObject({
     number: i,
     name: 'Keonehorse',
-    description: 'Keonehorse is the smartest and humblest human horse.',
+    description: 'The smartest yet humblest human horse.',
     image: 'ipfs://CID/keonehorse.jpeg',
     attributes: [
       { trait_type: 'Kind', value: 'Human horse' },
