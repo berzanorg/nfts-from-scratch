@@ -4,7 +4,7 @@ pragma solidity ^0.8.13;
 import {Script, console} from "forge-std/Script.sol";
 import {NFT} from "../src/NFT.sol";
 
-contract CounterScript is Script {
+contract NftScript is Script {
     NFT public nft;
 
     function setUp() public {}
