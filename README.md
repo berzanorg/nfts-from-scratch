@@ -2,9 +2,9 @@
 
 Monad Developers Workshop
 
-![keonehorse](/keonehorse.jpeg)
+> Keonehorse - The smartest yet humblest human horse.
 
-> Keonehorse.
+<img src="keonehorse.jpeg" alt="Keonehorse" width="256">
 
 ## Tools to install
 
