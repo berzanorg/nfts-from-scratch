@@ -2,6 +2,10 @@
 
 Monad Developers Workshop
 
+![keonehorse](/keonehorse.jpeg)
+
+> Keonehorse.
+
 ## Tools to install
 
 - [Foundry](https://getfoundry.sh/introduction/installation/)
