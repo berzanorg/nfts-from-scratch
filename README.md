@@ -7,7 +7,7 @@ Monad Developers Workshop
 - [Foundry](https://getfoundry.sh/introduction/installation/)
 - [Bun](https://bun.sh/)
 - [VS Code](https://code.visualstudio.com/download)
-- [Solidity Extension](vscode:extension/JuanBlanco.solidity)
+- [Solidity Extension](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
 
 ## Project layout
 
