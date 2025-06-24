@@ -21,7 +21,7 @@ for (let i = 0; i < 33; i++) {
     number: i,
     name: 'Keonehorse',
     description: 'The smartest yet humblest human horse.',
-    image: 'ipfs://CID/keonehorse.jpeg',
+    image: 'ipfs://bafybeidd7r3yg7xjpca5hln3s4cg7kdfk3q5nt4vtd7bqkgrjvzffr4uva/keonehorse.jpeg',
     attributes: [
       { trait_type: 'Kind', value: 'Human horse' },
       { trait_type: 'Intelligence', value: 'Wonderful' },
