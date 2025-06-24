@@ -1,0 +1,6 @@
+name = "workshop"
+compatibility_date = "2025-06-24"
+
+[assets]
+directory = "./dist"
+not_found_handling = "404-page"
