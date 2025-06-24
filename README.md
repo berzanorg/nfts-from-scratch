@@ -32,3 +32,18 @@ After having a wallet on [Monad Testnet](https://testnet.monad.xyz/), using Foun
 ### Web
 
 After signing up for [Cloudflare Workers](https://workers.cloudflare.com/), using static asset support you can deploy the interface to web.
+
+## Extra things
+
+### Contract Verification
+
+If you want people to easily interact with the smart contract from [MonVision](https://testnet.monvision.io/) explorer, you can verify the source code of the contract as below after replacing `<address>` with the contract you deployed.
+
+```bash
+forge verify-contract \
+  --rpc-url https://testnet-rpc.monad.xyz \
+  --verifier sourcify \
+  --verifier-url 'https://sourcify-api-monad.blockvision.org' \
+  <address> \
+  src/NFT.sol:NFT
+```
